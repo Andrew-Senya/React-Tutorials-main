@@ -14,7 +14,7 @@ import FoodComponents from "./components/FoodComponents";
 import MyCarList from "./components/MyCarList";
 import TodoList from "./components/TodoList";
 import DigitalClock from "./components/DigitalClock";
-import ComponentA from "./components/ComponentA";
+import StopClock from "./components/StopClock";
 
 function App() {
 
@@ -51,7 +51,7 @@ function App() {
       <MyCarList />
       <TodoList />
       <DigitalClock />
-      <ComponentA />
+      <StopClock />
     </>
   );
 }
